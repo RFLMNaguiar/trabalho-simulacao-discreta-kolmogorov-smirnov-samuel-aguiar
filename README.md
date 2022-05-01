@@ -13,3 +13,5 @@ entrada-trabalho-metodo-ks.txt: arquivo contendo os dados utilizados para a aná
 trabalho-metodo-ks.pdf: arquivo enviado pelo professor com as instruções para a execução do trabalho.
 
 tratar_dados.py: código para a análise automática dos dados em entrada-trabalho-metodo.ks.txt
+
+trabalho-completo.pdf: pdf com o trabalho finalizado.
